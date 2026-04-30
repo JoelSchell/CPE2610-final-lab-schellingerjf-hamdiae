@@ -1,0 +1,11 @@
+# ignore all files generated from making a build
+.metadata/
+console/Debug/
+console/STM32F411CEUX_FLASH.ld
+console/STM32F411CEUX_RAM.ld
+console/Startup/
+console/console Debug.launch
+controller/Debug/
+controller/STM32F411CEUX_FLASH.ld
+controller/STM32F411CEUX_RAM.ld
+controller/Startup/
