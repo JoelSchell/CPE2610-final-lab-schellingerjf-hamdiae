@@ -1,7 +1,5 @@
 # ignore all files generated from making a build
 .metadata/
 console/Debug/
-console/Startup/
 console/console Debug.launch
 controller/Debug/
-controller/Startup/
