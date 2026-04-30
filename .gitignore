@@ -1,0 +1,7 @@
+# ignore all files generated from making a build
+.metadata/
+console/Debug/
+console/console Debug.launch
+controller/Debug/
+*/.settings/
+
