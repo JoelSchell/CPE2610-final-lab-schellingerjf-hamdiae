@@ -3,3 +3,5 @@
 console/Debug/
 console/console Debug.launch
 controller/Debug/
+*/.settings/
+
